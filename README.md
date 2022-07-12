@@ -17,8 +17,6 @@ Realizar una prueba funcional automatizada (Prueba E2E) de un flujo de compra en
 
 Install dependencies with npm install
 
-See scripts in package.json to start the local API server and run the tests. The main ones are
-
 - ```npm start``` - runs the local API server
 - ```npx cypress open``` - runs Cypress in GUI mode
 - ```npm test``` - runs Cypress in console for generating report
